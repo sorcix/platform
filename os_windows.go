@@ -1,6 +1,6 @@
 // +build windows
 
-package version
+package platform
 
 const (
 	OperatingSystem = "Windows"

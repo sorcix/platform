@@ -1,6 +1,6 @@
 // +build !386,!amd64,!arm
 
-package version
+package platform
 
 import "runtime"
 

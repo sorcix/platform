@@ -1,6 +1,6 @@
 // +build amd64
 
-package version
+package platform
 
 const (
 	Architecture = "64bit"

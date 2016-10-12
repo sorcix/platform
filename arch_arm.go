@@ -1,6 +1,6 @@
 // +build arm
 
-package version
+package platform
 
 const (
 	Architecture = "ARM"

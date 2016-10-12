@@ -1,6 +1,6 @@
 // +build 386
 
-package version
+package platform
 
 const (
 	Architecture = "32bit"

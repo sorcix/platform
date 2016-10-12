@@ -1,6 +1,6 @@
 // +build linux
 
-package version
+package platform
 
 const (
 	OperatingSystem = "Linux"

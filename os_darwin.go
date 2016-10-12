@@ -1,6 +1,6 @@
 // +build darwin
 
-package version
+package platform
 
 const (
 	OperatingSystem = "macOS"

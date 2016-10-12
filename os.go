@@ -1,6 +1,6 @@
 // +build !linux,!windows,!darwin,!freebsd,!netbsd
 
-package version
+package platform
 
 import "runtime"
 

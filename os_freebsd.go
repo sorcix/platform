@@ -1,6 +1,6 @@
 // +build freebsd
 
-package version
+package platform
 
 const (
 	OperatingSystem = "FreeBSD"

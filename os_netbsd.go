@@ -1,6 +1,6 @@
 // +build netbsd
 
-package version
+package platform
 
 const (
 	OperatingSystem = "NetBSD"
