@@ -1,4 +1,5 @@
 // +build netbsd
+
 package version
 
 const (

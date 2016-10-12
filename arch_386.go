@@ -1,4 +1,5 @@
 // +build 386
+
 package version
 
 const (

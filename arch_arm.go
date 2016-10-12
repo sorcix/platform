@@ -1,4 +1,5 @@
 // +build arm
+
 package version
 
 const (

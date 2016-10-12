@@ -1,4 +1,5 @@
 // +build freebsd
+
 package version
 
 const (
